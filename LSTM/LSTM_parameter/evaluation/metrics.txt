@@ -1,0 +1,26 @@
+Macro F1 Score: 0.7304
+Weighted F1 Score: 0.8242
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        ENFJ       0.73      0.61      0.66       319
+        ENFP       0.83      0.80      0.81      1249
+        ENTJ       0.82      0.84      0.83       577
+        ENTP       0.83      0.80      0.81      2324
+        ESFJ       0.50      0.09      0.15        33
+        ESFP       0.82      0.53      0.65        75
+        ESTJ       0.88      0.78      0.83       105
+        ESTP       0.89      0.86      0.88       398
+        INFJ       0.82      0.83      0.82      2954
+        INFP       0.79      0.84      0.82      2391
+        INTJ       0.83      0.86      0.84      4531
+        INTP       0.86      0.86      0.86      5033
+        ISFJ       0.78      0.55      0.65       132
+        ISFP       0.72      0.62      0.67       161
+        ISTJ       0.75      0.55      0.63       253
+        ISTP       0.77      0.77      0.77       679
+
+    accuracy                           0.83     21214
+   macro avg       0.79      0.70      0.73     21214
+weighted avg       0.82      0.83      0.82     21214
